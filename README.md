@@ -1,2 +1,3 @@
 # RayTracer
-RealtimeRayTracer
+QuantLight : Realtime Raytracer based on optix renderer
+
